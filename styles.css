@@ -1,0 +1,36 @@
+img{
+  max-width: 100%;
+}
+
+body{
+  margin: 0px;
+}
+
+header{
+  height: 250px;
+  background-image: url('header.jpg');
+}
+
+aside{
+  /*float: left;*/
+  width: 30%;
+}
+
+.logo{
+
+}
+
+/*
+aside, article{
+  display: inline-block;
+  vertical-align: top;
+}
+
+aside{
+  width: 25%;
+}
+
+article{
+  width: 70%;
+}
+*/
